@@ -12,3 +12,5 @@ gem 'jekyll-gist'
 #group :jekyll_plugins do
 #  gem 'jekyll_oembed'
 #end
+
+gem "webrick", "~> 1.8"
