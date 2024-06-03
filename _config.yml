@@ -2,15 +2,15 @@ title: wxblog
 author: Mohamed Ashraf Wx
 tagline: Personal Arabic Blog 
 description: A personal space to share my thoughts.
-iconURL: assets/default-icon.png
+iconURL: assets/avatar.png
 remote-theme: tarekeldeeb/arabic-blog-green-dark-theme
 
 # for a clean URL
 permalink: :slug
 
 social:
-  github: https://github.com/mohamedashraf-eng
-  linkedin: https://www.linkedin.com/in/mohamed-ashraf-wx/
+  github: mohamedashraf-eng
+  linkedin: mohamed-ashraf-wx
 
 defaults:
   - scope:
@@ -20,7 +20,7 @@ defaults:
   - scope:
       path: "" # an empty string here means all files in the project
     values:
-      image: assets/default-img.png
+      image: assets/avatar.png
 
 plugins:
  - jekyll-feed
