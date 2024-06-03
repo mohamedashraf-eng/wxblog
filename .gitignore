@@ -20,7 +20,5 @@ _gh_pages
 node_modules
 _site
 .sass-cache
-resume.md
-assets/pdf
 .jekyll-cache
 .jekyll-metadata
