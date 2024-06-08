@@ -1,8 +1,8 @@
 title: wxblog
 author: Mohamed Ashraf Wx
-tagline: Personal Arabic Blog 
+tagline: Personal Career Thoughts
 description: A personal space to share my thoughts.
-iconURL: favicon.ico
+iconURL: assets/avatar.png
 remote-theme: tarekeldeeb/arabic-blog-green-dark-theme
 
 # for a clean URL
