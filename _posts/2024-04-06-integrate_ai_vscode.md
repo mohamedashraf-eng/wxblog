@@ -105,10 +105,15 @@ ollama run <model_name>
 ```  
 
 After restarting VSCode, the extension will reload, parse your files, and start your LLM.  
+
 ![LLM AC](../assets/img/post_continue_indexing.png)  
-You can now write directly to your model
+
+You can now write directly to your model  
+
 ![LLM AC](../assets/img/ollama-gen.gif)  
+
 Or let the model help you with autocompletion.  
+
 ![LLM AC](../assets/img/ollama-complete.gif)  
 
 You can also highlight code and press `Ctrl+Shift+I` to interact with the model.  
