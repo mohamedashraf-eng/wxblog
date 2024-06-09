@@ -68,7 +68,9 @@ Let's make use of these amazing LLM features to automate some of our tasks.
 2. Pick a model from the [Ollama library](https://ollama.com/library).  
    Ensure the model’s VRAM requirement matches your GPU’s VRAM to avoid [performance issues](https://ollama.com/library).
 
-![bottleneck](../assets/img/post_gpucpussd_bottleneck_.png)
+<div style="text-align:center;">
+   <a href="https://ibb.co/2KdQ1q7"><img src="https://i.ibb.co/RHcmk2p/post-gpucpussd-bottleneck.png" alt="post-gpucpussd-bottleneck" border="0" /></a>
+</div>
 
 > **Tip:** Focus on a model that meets your needs rather than one that tries to do everything.
 
@@ -106,15 +108,22 @@ ollama run <model_name>
 
 After restarting VSCode, the extension will reload, parse your files, and start your LLM.  
 
-![LLM AC](../assets/img/post_continue_indexing.png)  
+<div style="text-align:center;">
+   <a href="https://imgbb.com/"><img src="https://i.ibb.co/8N2tLcg/post-continue-indexing.png" alt="post-continue-indexing" border="0" /></a>
+</div>
 
 You can now write directly to your model  
 
-![LLM AC](../assets/img/ollama-gen.gif)  
+<div style="text-align:center;">
+   <a href="https://imgbb.com/"><img src="https://i.ibb.co/rkLPb6X/ollama-gen.gif" alt="ollama-gen" border="0" /></a>
+</div>
+
 
 Or let the model help you with autocompletion.  
 
-![LLM AC](../assets/img/ollama-complete.gif)  
+<div style="text-align:center;">
+   <a href="https://ibb.co/jyvFhQS"><img src="https://i.ibb.co/QPFG9T4/ollama-complete.gif" alt="ollama-complete" border="0" /></a>
+</div>
 
 You can also highlight code and press `Ctrl+Shift+I` to interact with the model.  
 
