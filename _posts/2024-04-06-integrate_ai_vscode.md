@@ -118,4 +118,6 @@ Or let the model help you with autocompletion.
 
 You can also highlight code and press `Ctrl+Shift+I` to interact with the model.  
 
-Thanks for reading! Enjoy integrating LLMs into your daily development workflow! 🚀
+Thanks for reading! Enjoy integrating LLMs into your daily development workflow! 🚀  
+
+`(c) 2024, MoWx-04-06`
