@@ -1,8 +1,8 @@
 title: wxblog
 author: Mohamed Ashraf Wx
 tagline: Personal Career Thoughts
-description: A personal space to share my thoughts.
-iconURL: assets/avatar.png
+description: A personal space to share my career thoughts.
+iconURL: assets/default-icon.png
 remote-theme: tarekeldeeb/arabic-blog-green-dark-theme
 
 # for a clean URL
@@ -20,7 +20,7 @@ defaults:
   - scope:
       path: "" # an empty string here means all files in the project
     values:
-      image: assets/avatar.png
+      image: assets/default-img.png
 
 plugins:
  - jekyll-feed
